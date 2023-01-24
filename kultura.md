@@ -1,13 +1,15 @@
 ---
 layout: page
 title: kk
-permalink: /kultura/
+permalink: /kk/
 ---
 
+# Site in progress
 
-
-Nějaká kultura
+<!-- Nějaká kultura
 
 {{site.description}}
 Made with 
   <b style=\"color: #f45;\">&lt;3</b>
+
+-->

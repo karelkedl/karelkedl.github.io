@@ -9,14 +9,15 @@ permalink: /3d_models/
 Odkaz na 3D modely, které jsem vytvořil uložené na [GRABCAD][1]. <br>
 Používám [FreeCAD][2] aktuálně verze 0.20.2 pro linux.
 
-- [x] Ice tower 
+- [x] Ice tower cooling for rpi 4 
 - [x] Anker power 20000 mAh bank
+- [x] Držák pro power banku pro použití na dronu
 - [x] Flash card case
 - [x] Antenna for ADS-B
-- [ ] Samsung bar usb flash 
+- [x] Samsung bar usb flash 
 - [ ] GPS antenna
-- [ ] RTL-SDR
-
+- [x] RTL-SDR
+- [x] Závěs pro DJI Matrice 600 Pro
 
 ___
 
@@ -42,7 +43,18 @@ Pouzdro má na sobě držák pro odkládání krytky. Další verze by mohla bý
 Další model, který potřebuji pro diplomovou práci. Celkem jednoduchý model ze dvou částí základna antény s magnetickou podložkou a samotný prut antény.
 
 
+## Samsung bar usb flash
 
+Zjednodušený model flešky samsung bar. Celkem fajn zkušenost při modelování s freecadem spousta způsobů a možností. Začal jsem jednotlivými průřezy a nakonec skončil nepřekvapivě u modelování ploch, což dalo mnohem lepší výsledek než tažení přes profily. Zjednodušená část je vzadu u poutka kde chybí zadní rádius.  
+
+
+## RTL-SDR 
+
+Jednoduchý model pro ověření prostorových konfliktů pro diplomku
+
+## Závěs pro DJI Matrice 600 Pro
+
+Konstrukce pro 3D tisk na zavěšení Pluto-SDR, power banky a rpi 4 na dron DJI Matrice 600 Pro.
 
 [1]:https://grabcad.com/karel.kedl-1/models 
 [2]:https://www.freecadweb.org/
